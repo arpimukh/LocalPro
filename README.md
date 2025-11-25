@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 Initial app was created with below command
 npx create-next-app partner-registration-app
-
+npm install lucide-react
 Command to run the development server:
 
 ```bash
